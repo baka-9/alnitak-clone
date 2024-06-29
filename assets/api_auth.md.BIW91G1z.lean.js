@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as s,a2 as i}from"./chunks/framework.DRZK5IXa.js";const c=JSON.parse('{"title":"用户相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/auth.md","filePath":"api/auth.md"}'),l={name:"api/auth.md"},e=i("",120),n=[e];function h(d,o,p,k,r,u){return s(),a("div",null,n)}const g=t(l,[["render",h]]);export{c as __pageData,g as default};
